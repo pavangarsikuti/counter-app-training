@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/counter-app-training/static/css/main.073c9b0a.css",
+    "main.js": "/counter-app-training/static/js/main.8e63be88.js",
+    "static/js/787.5863b875.chunk.js": "/counter-app-training/static/js/787.5863b875.chunk.js",
+    "index.html": "/counter-app-training/index.html",
+    "main.073c9b0a.css.map": "/counter-app-training/static/css/main.073c9b0a.css.map",
+    "main.8e63be88.js.map": "/counter-app-training/static/js/main.8e63be88.js.map",
+    "787.5863b875.chunk.js.map": "/counter-app-training/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8e63be88.js"
+  ]
+}
